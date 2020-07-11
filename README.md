@@ -7,7 +7,7 @@ Data Gathering:
 We have gathered three separated pieces of data
 <ul>
   <li>Twitter_archive_enhanced.csv</li
-   <liimages_predictions.tsv, accessed from udacity's website with the Requests library</li>
+  <li>mages_predictions.tsv, accessed from udacity's website with the Requests library</li>
   <li>tweet_json.txt, a JSON object downloaded using Twitter's API and the Tweepy library</li>
 </ul>
 
